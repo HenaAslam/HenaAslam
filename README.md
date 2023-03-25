@@ -33,7 +33,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div style="width:100%">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript " width="40" height="40"/>&nbsp;
