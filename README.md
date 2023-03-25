@@ -3,15 +3,12 @@
   <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h5 align="center">Budding MERN Stack developer from Hamburg, Germany </h5>
-</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="100"/>
+  <h4 align="center">Budding MERN Stack developer from Hamburg, Germany </h4>
+   <img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="100"/>
  
   <img src="https://komarev.com/ghpvc/?username=HenaAslam&style=flat-square&color=blue" alt=""/>
+</h1>
 
-
-</div>
 <div>
 
 
