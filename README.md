@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 - :telescope: I' a Computer Science Engineer who is passionate about Full Stack Development.
-- :seedling:  Currently improving my MongoDB, Express, React, Node Skills.
+- :seedling:  Currently improving my MongoDB, Express, React, Node(MERN) Skills.
 - :mailbox: How to reach me **henaaslam111@gamil.com**
 </div>
 
