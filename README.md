@@ -53,8 +53,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 ### :fire: My Stats :
-<div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HenaAslam&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HenaAslam&title=Commits,PullRequest,Repositories,Issues,Stars&theme=onedark" alt="henaaslam" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenaAslam&show_icons=true&locale=en&layout=compact" alt="henaaslam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HenaAslam&" alt="henaaslam" /></p>
+  
 
 
