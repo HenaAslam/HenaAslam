@@ -1,19 +1,6 @@
 
 
-<!--
-**HenaAslam/HenaAslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="100"/>
   <div id="badges">
@@ -30,7 +17,7 @@ Here are some ideas to get you started:
 
 </div>
 <div>
-  ---
+
 
 ### :woman_technologist: About Me :
 
@@ -40,6 +27,9 @@ Here are some ideas to get you started:
 - :seedling:  Currently improving my MongoDB, Express, React, Node(MERN) Skills.
 - :mailbox: How to reach me **henaaslam111@gamil.com**
 </div>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/farhanarafi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhanarafi7" height="30" width="40" /></a>
+</p>
 
 
