@@ -39,7 +39,7 @@
 </p>
 
 ### :hammer_and_wrench: Framework and libraries :
-<p>
+<p style="display:flex">
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   
