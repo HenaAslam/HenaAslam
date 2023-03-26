@@ -22,11 +22,12 @@
 - :seedling:  Currently improving my MongoDB, Express, React, Node(MERN) Skills.
 - :mailbox: How to reach me : **henaaslam111@gamil.com**
 </div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HenaAslam&title=Commits,PullRequest,Repositories,Issues&theme=onedark" alt="henaaslam" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hena-asslam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhanarafi7" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HenaAslam&title=Commits,PullRequest,Repositories,Issues&theme=onedark" alt="henaaslam" /></a> </p>
+
 
 ### :hammer_and_wrench: Programming Languages :
 
