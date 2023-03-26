@@ -59,7 +59,7 @@
 
 <p>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://a11ybadges.com/badge?logo=railway" height="30" width="70"/>
+  <img src="https://a11ybadges.com/badge?logo=railway" height="29" width="80"/>
   
   
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
