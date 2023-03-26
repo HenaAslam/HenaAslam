@@ -65,7 +65,9 @@
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-<!--   ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
+  ![Railway](https://a11ybadges.com/badge?logo=railway)
+
+
   
   
   
