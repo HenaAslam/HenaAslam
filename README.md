@@ -101,7 +101,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HenaAslam&" alt="henaaslam" /></p>
 
 
-<h6><em>Happy coding everyone! 💌</em></h6>
+<h6 align="center"><em>Happy coding everyone! 💌</em></h6>
 
   
 
