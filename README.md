@@ -29,7 +29,7 @@
 </p>
 
 
-### :hammer_and_wrench: Programming Languages :
+### :computer:  Languages :
 
 <p>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -57,7 +57,7 @@
 </p>
 
 
-### :hammer_and_wrench: Tools :
+### :gear: Tools :
 
 <p>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -80,7 +80,7 @@
 </p>
 
 
-### :hammer_and_wrench: Databases :
+### :toolbox: Databases :
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
